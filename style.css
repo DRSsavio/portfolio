@@ -1,0 +1,13 @@
+h1{
+    color:red
+}
+*{
+    border: solid;
+}
+.header{
+    background-color:dimgray;
+    display:flex;
+    justify-content:space-between;
+
+}
+
